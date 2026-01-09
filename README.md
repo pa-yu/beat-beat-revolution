@@ -107,4 +107,4 @@ pip install -r requirements.txt --no-deps
 ### 3. (Optional) Add Your Own Songs
 
 Upload any `.mp3` file of your choice.  
-The file **must be in the same directory** as the `finalVersion.py` file to be recognized during song import.
+The file **must be in the song directory** to be recognized during song import.
